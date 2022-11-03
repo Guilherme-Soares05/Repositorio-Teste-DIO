@@ -5,3 +5,4 @@
 * Curso ADS no Senac
 * Esta é a capa do meu primeiro Repositório criado com o professor Otavio da DIO
 * Bootcamp Quebéc Java
+* Este repositório contara com os exercicos que vão ser feitos na aula
